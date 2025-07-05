@@ -39,7 +39,7 @@ alura-store-challenge/
  </pre>
 
 
-🚀 Principais Insights
+## 🚀 Principais Insights
 Loja 4 tem o menor faturamento (R$ 1.384 497,58) e avaliação média de 4,00.
 
 Móveis e Eletrônicos lideram vendas em todas as unidades.
