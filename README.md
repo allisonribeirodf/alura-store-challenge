@@ -17,7 +17,6 @@ Auxiliar o Sr. João na decisão de qual das quatro lojas vender, a partir de da
 3. **Avaliação Média dos Clientes**  
 4. **Produtos Mais e Menos Vendidos**  
 5. **Frete Médio por Loja**  
-6. **Distribuição Geográfica (scatter & heatmap)**  
 
 Cada etapa inclui tabelas e gráficos (barras, pizza, linha, hexbin) para insights claros.
 
