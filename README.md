@@ -25,6 +25,7 @@ Cada etapa inclui tabelas e gráficos (barras, pizza, linha, hexbin) para insigh
 ## 📁 Estrutura do Repositório
 
 alura-store-challenge/
+<pre>
 │
 ├── data/
 │ └── loja_1.csv, loja_2.csv, loja_3.csv, loja_4.csv
@@ -35,6 +36,7 @@ alura-store-challenge/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+ </pre>
 
 
 🚀 Principais Insights
